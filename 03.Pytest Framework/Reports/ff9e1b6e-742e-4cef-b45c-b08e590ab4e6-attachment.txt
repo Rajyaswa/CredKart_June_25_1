@@ -1,0 +1,48 @@
+launching chrome headless browser
+Title of the page: Login
+Total rows are: 7
+Username is: testuser01
+Password is: Test@1234
+email is :testuser01@gmail.com
+phone is :9876543210
+Expected Result is: Pass
+User login Failed
+Test Case Result is: Fail
+Username is: abc
+Password is: weakpass
+email is :invalidemail.com
+phone is :12345
+Expected Result is: Fail
+User login Failed
+Test Case Result is: Pass
+Username is: signupuser99
+Password is: Pass@word1
+email is :signup99@mail.com
+phone is :1234567890123
+Expected Result is: Pass
+User login Failed
+Test Case Result is: Fail
+Username is: testuser01
+Password is: Test@1234
+email is :testuser01@gmail.com
+phone is :9876543210
+Expected Result is: Fail
+User login Failed
+Test Case Result is: Pass
+Username is: user_007
+Password is: Welcome@2025
+email is :user007@example.com
+phone is :8888888888
+Expected Result is: Pass
+User login Failed
+Test Case Result is: Fail
+Username is: toolongusernameeeeeee
+Password is: Valid@1234
+email is :longuser@mail.com
+phone is :9123456789
+Expected Result is: Fail
+User login Failed
+Test Case Result is: Pass
+Result List is: ['Fail', 'Pass', 'Fail', 'Pass', 'Fail', 'Pass']
+
+Browser closed

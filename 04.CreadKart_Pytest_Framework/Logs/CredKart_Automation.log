@@ -1,0 +1,284 @@
+2025-06-17 20:20:10,517 - INFO - test_CredKart_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:20:10,517 - INFO - test_CredKart_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:20:10,517 - INFO - test_CredKart_Login_params_004  - 39 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:20:10,517 - INFO - test_CredKart_Login_params_004  - 39 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:20:10,680 - INFO - test_CredKart_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:20:10,680 - INFO - test_CredKart_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:20:10,680 - INFO - test_CredKart_Login_params_004  - 39 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:20:10,680 - INFO - test_CredKart_Login_params_004  - 39 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:20:10,685 - INFO - test_CredKart_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:20:10,685 - INFO - test_CredKart_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:20:10,686 - INFO - test_CredKart_Login_params_004  - 39 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:20:10,686 - INFO - test_CredKart_Login_params_004  - 39 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:20:11,966 - INFO - test_CredKart_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:20:11,966 - INFO - test_CredKart_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:20:11,967 - INFO - test_CredKart_Login_params_004  - 39 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:20:11,967 - INFO - test_CredKart_Login_params_004  - 39 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:20:13,363 - INFO - test_CredKart_Login_params_004  - 47 - Entering email--credencejune01@credence.in1
+2025-06-17 20:20:13,363 - INFO - test_CredKart_Login_params_004  - 47 - Entering email--credencejune01@credence.in1
+2025-06-17 20:20:13,604 - INFO - test_CredKart_Login_params_004  - 47 - Entering email--credencejune01@credence.in
+2025-06-17 20:20:13,604 - INFO - test_CredKart_Login_params_004  - 47 - Entering email--credencejune01@credence.in
+2025-06-17 20:20:13,620 - INFO - test_CredKart_Login_params_004  - 47 - Entering email--credencejune01@credence.in
+2025-06-17 20:20:13,620 - INFO - test_CredKart_Login_params_004  - 47 - Entering email--credencejune01@credence.in
+2025-06-17 20:20:14,413 - INFO - test_CredKart_Login_params_004  - 47 - Entering email--credencejune01@credence.in1
+2025-06-17 20:20:14,413 - INFO - test_CredKart_Login_params_004  - 47 - Entering email--credencejune01@credence.in1
+2025-06-17 20:20:14,523 - INFO - test_CredKart_Login_params_004  - 49 - Entering password
+2025-06-17 20:20:14,523 - INFO - test_CredKart_Login_params_004  - 49 - Entering password
+2025-06-17 20:20:14,990 - INFO - test_CredKart_Login_params_004  - 49 - Entering password
+2025-06-17 20:20:14,990 - INFO - test_CredKart_Login_params_004  - 49 - Entering password
+2025-06-17 20:20:15,059 - INFO - test_CredKart_Login_params_004  - 49 - Entering password
+2025-06-17 20:20:15,059 - INFO - test_CredKart_Login_params_004  - 49 - Entering password
+2025-06-17 20:20:15,215 - INFO - test_CredKart_Login_params_004  - 49 - Entering password
+2025-06-17 20:20:15,215 - INFO - test_CredKart_Login_params_004  - 49 - Entering password
+2025-06-17 20:20:15,293 - INFO - test_CredKart_Login_params_004  - 51 - Clicking on login button
+2025-06-17 20:20:15,293 - INFO - test_CredKart_Login_params_004  - 51 - Clicking on login button
+2025-06-17 20:20:15,466 - INFO - test_CredKart_Login_params_004  - 51 - Clicking on login button
+2025-06-17 20:20:15,466 - INFO - test_CredKart_Login_params_004  - 51 - Clicking on login button
+2025-06-17 20:20:15,570 - INFO - test_CredKart_Login_params_004  - 51 - Clicking on login button
+2025-06-17 20:20:15,570 - INFO - test_CredKart_Login_params_004  - 51 - Clicking on login button
+2025-06-17 20:20:15,990 - INFO - test_CredKart_Login_params_004  - 51 - Clicking on login button
+2025-06-17 20:20:15,990 - INFO - test_CredKart_Login_params_004  - 51 - Clicking on login button
+2025-06-17 20:20:19,463 - INFO - test_CredKart_Login_params_004  - 53 - Verifying user login
+2025-06-17 20:20:19,463 - INFO - test_CredKart_Login_params_004  - 53 - Verifying user login
+2025-06-17 20:20:19,606 - INFO - test_CredKart_Login_params_004  - 53 - Verifying user login
+2025-06-17 20:20:19,606 - INFO - test_CredKart_Login_params_004  - 53 - Verifying user login
+2025-06-17 20:20:19,739 - INFO - test_CredKart_Login_params_004  - 53 - Verifying user login
+2025-06-17 20:20:19,739 - INFO - test_CredKart_Login_params_004  - 53 - Verifying user login
+2025-06-17 20:20:23,288 - INFO - test_CredKart_Login_params_004  - 53 - Verifying user login
+2025-06-17 20:20:23,288 - INFO - test_CredKart_Login_params_004  - 53 - Verifying user login
+2025-06-17 20:20:23,624 - INFO - test_CredKart_Login_params_004  - 55 - user Login Successfully
+2025-06-17 20:20:23,624 - INFO - test_CredKart_Login_params_004  - 55 - user Login Successfully
+2025-06-17 20:20:23,642 - INFO - test_CredKart_Login_params_004  - 61 - user Login Failed
+2025-06-17 20:20:23,642 - INFO - test_CredKart_Login_params_004  - 61 - user Login Failed
+2025-06-17 20:20:23,643 - INFO - test_CredKart_Login_params_004  - 63 - Taking screenshot
+2025-06-17 20:20:23,643 - INFO - test_CredKart_Login_params_004  - 63 - Taking screenshot
+2025-06-17 20:20:23,723 - INFO - test_CredKart_Login_params_004  - 61 - user Login Failed
+2025-06-17 20:20:23,723 - INFO - test_CredKart_Login_params_004  - 61 - user Login Failed
+2025-06-17 20:20:23,724 - INFO - test_CredKart_Login_params_004  - 63 - Taking screenshot
+2025-06-17 20:20:23,724 - INFO - test_CredKart_Login_params_004  - 63 - Taking screenshot
+2025-06-17 20:20:23,942 - INFO - test_CredKart_Login_params_004  - 69 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:20:23,942 - INFO - test_CredKart_Login_params_004  - 69 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:20:24,057 - INFO - test_CredKart_Login_params_004  - 69 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:20:24,057 - INFO - test_CredKart_Login_params_004  - 69 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:20:24,947 - INFO - test_CredKart_Login_params_004  - 69 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:20:24,947 - INFO - test_CredKart_Login_params_004  - 69 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:20:25,529 - INFO - test_CredKart_Login_params_004  - 61 - user Login Failed
+2025-06-17 20:20:25,529 - INFO - test_CredKart_Login_params_004  - 61 - user Login Failed
+2025-06-17 20:20:25,530 - INFO - test_CredKart_Login_params_004  - 63 - Taking screenshot
+2025-06-17 20:20:25,530 - INFO - test_CredKart_Login_params_004  - 63 - Taking screenshot
+2025-06-17 20:20:25,770 - INFO - test_CredKart_Login_params_004  - 69 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:20:25,770 - INFO - test_CredKart_Login_params_004  - 69 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:20:37,584 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-17 20:20:37,584 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-17 20:20:37,584 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:20:37,584 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:20:38,126 - INFO - test_CredKart_Login_002  - 87 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:20:38,126 - INFO - test_CredKart_Login_002  - 87 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:20:38,127 - INFO - test_CredKart_Login_002  - 88 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:20:38,127 - INFO - test_CredKart_Login_002  - 88 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:20:38,150 - INFO - test_CredKart_Registration_003  - 156 - Testcase test_CredKart_Registration_003 is started
+2025-06-17 20:20:38,150 - INFO - test_CredKart_Registration_003  - 156 - Testcase test_CredKart_Registration_003 is started
+2025-06-17 20:20:38,150 - INFO - test_CredKart_Registration_003  - 157 - Opening browser and landing on login page--https://automation.credence.in/register
+2025-06-17 20:20:38,150 - INFO - test_CredKart_Registration_003  - 157 - Opening browser and landing on login page--https://automation.credence.in/register
+2025-06-17 20:20:39,685 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-17 20:20:39,685 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-17 20:20:39,830 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-17 20:20:39,830 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-17 20:20:39,830 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-17 20:20:39,830 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-17 20:20:39,834 - INFO - test_CredKart_Login_002  - 95 - Entering email--credencejune01@credence.in
+2025-06-17 20:20:39,834 - INFO - test_CredKart_Login_002  - 95 - Entering email--credencejune01@credence.in
+2025-06-17 20:20:40,447 - INFO - test_CredKart_Registration_003  - 164 - Entering name--Kyle Medina
+2025-06-17 20:20:40,447 - INFO - test_CredKart_Registration_003  - 164 - Entering name--Kyle Medina
+2025-06-17 20:20:40,929 - INFO - test_CredKart_Login_002  - 102 - Entering password
+2025-06-17 20:20:40,929 - INFO - test_CredKart_Login_002  - 102 - Entering password
+2025-06-17 20:20:40,970 - INFO - test_CredKart_Registration_003  - 168 - Entering email--kerrlacey@example.org
+2025-06-17 20:20:40,970 - INFO - test_CredKart_Registration_003  - 168 - Entering email--kerrlacey@example.org
+2025-06-17 20:20:41,108 - INFO - test_CredKart_Login_002  - 109 - Clicking on login button
+2025-06-17 20:20:41,108 - INFO - test_CredKart_Login_002  - 109 - Clicking on login button
+2025-06-17 20:20:41,269 - INFO - test_CredKart_Registration_003  - 172 - Entering password
+2025-06-17 20:20:41,269 - INFO - test_CredKart_Registration_003  - 172 - Entering password
+2025-06-17 20:20:41,474 - INFO - test_CredKart_Registration_003  - 176 - Entering confirm password
+2025-06-17 20:20:41,474 - INFO - test_CredKart_Registration_003  - 176 - Entering confirm password
+2025-06-17 20:20:41,631 - INFO - test_CredKart_Registration_003  - 180 - Clicking on registration button
+2025-06-17 20:20:41,631 - INFO - test_CredKart_Registration_003  - 180 - Clicking on registration button
+2025-06-17 20:20:42,199 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-17 20:20:42,199 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-17 20:20:42,199 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:20:42,199 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:20:43,547 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-17 20:20:43,547 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-17 20:20:43,563 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-17 20:20:43,563 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-17 20:20:43,563 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-17 20:20:43,563 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-17 20:20:45,373 - INFO - test_CredKart_Login_002  - 125 - Verifying user login
+2025-06-17 20:20:45,373 - INFO - test_CredKart_Login_002  - 125 - Verifying user login
+2025-06-17 20:20:45,395 - INFO - test_CredKart_Login_002  - 127 - user Login Successfully
+2025-06-17 20:20:45,395 - INFO - test_CredKart_Login_002  - 127 - user Login Successfully
+2025-06-17 20:20:45,630 - INFO - test_CredKart_Login_002  - 137 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:20:45,630 - INFO - test_CredKart_Login_002  - 137 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:20:46,245 - INFO - test_CredKart_Registration_003  - 184 - Verifying user registration
+2025-06-17 20:20:46,245 - INFO - test_CredKart_Registration_003  - 184 - Verifying user registration
+2025-06-17 20:20:46,265 - INFO - test_CredKart_Registration_003  - 186 - user Registration Successfully
+2025-06-17 20:20:46,265 - INFO - test_CredKart_Registration_003  - 186 - user Registration Successfully
+2025-06-17 20:20:46,266 - INFO - test_CredKart_Registration_003  - 188 - Clicking on menu button
+2025-06-17 20:20:46,266 - INFO - test_CredKart_Registration_003  - 188 - Clicking on menu button
+2025-06-17 20:20:46,381 - INFO - test_CredKart_Registration_003  - 190 - Clicking on logout link
+2025-06-17 20:20:46,381 - INFO - test_CredKart_Registration_003  - 190 - Clicking on logout link
+2025-06-17 20:20:46,519 - INFO - test_CredKart_Registration_003  - 198 - Testcase test_CredKart_Registration_003 is completed
+
+2025-06-17 20:20:46,519 - INFO - test_CredKart_Registration_003  - 198 - Testcase test_CredKart_Registration_003 is completed
+
+2025-06-17 20:23:39,562 - INFO - test_CredKart_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:23:39,562 - INFO - test_CredKart_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:23:39,563 - INFO - test_CredKart_Login_params_004  - 39 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:23:39,563 - INFO - test_CredKart_Login_params_004  - 39 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:23:39,899 - INFO - test_CredKart_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:23:39,899 - INFO - test_CredKart_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:23:39,899 - INFO - test_CredKart_Login_params_004  - 39 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:23:39,899 - INFO - test_CredKart_Login_params_004  - 39 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:23:39,906 - INFO - test_CredKart_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:23:39,906 - INFO - test_CredKart_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:23:39,907 - INFO - test_CredKart_Login_params_004  - 39 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:23:39,907 - INFO - test_CredKart_Login_params_004  - 39 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:23:42,366 - INFO - test_CredKart_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:23:42,366 - INFO - test_CredKart_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:23:42,366 - INFO - test_CredKart_Login_params_004  - 39 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:23:42,366 - INFO - test_CredKart_Login_params_004  - 39 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:23:42,694 - INFO - test_CredKart_Login_params_004  - 47 - Entering email--credencejune01@credence.in
+2025-06-17 20:23:42,694 - INFO - test_CredKart_Login_params_004  - 47 - Entering email--credencejune01@credence.in
+2025-06-17 20:23:42,822 - INFO - test_CredKart_Login_params_004  - 47 - Entering email--credencejune01@credence.in1
+2025-06-17 20:23:42,822 - INFO - test_CredKart_Login_params_004  - 47 - Entering email--credencejune01@credence.in1
+2025-06-17 20:23:43,778 - INFO - test_CredKart_Login_params_004  - 49 - Entering password
+2025-06-17 20:23:43,778 - INFO - test_CredKart_Login_params_004  - 49 - Entering password
+2025-06-17 20:23:43,845 - INFO - test_CredKart_Login_params_004  - 47 - Entering email--credencejune01@credence.in1
+2025-06-17 20:23:43,845 - INFO - test_CredKart_Login_params_004  - 47 - Entering email--credencejune01@credence.in1
+2025-06-17 20:23:43,884 - INFO - test_CredKart_Login_params_004  - 49 - Entering password
+2025-06-17 20:23:43,884 - INFO - test_CredKart_Login_params_004  - 49 - Entering password
+2025-06-17 20:23:44,059 - INFO - test_CredKart_Login_params_004  - 51 - Clicking on login button
+2025-06-17 20:23:44,059 - INFO - test_CredKart_Login_params_004  - 51 - Clicking on login button
+2025-06-17 20:23:44,271 - INFO - test_CredKart_Login_params_004  - 47 - Entering email--credencejune01@credence.in
+2025-06-17 20:23:44,271 - INFO - test_CredKart_Login_params_004  - 47 - Entering email--credencejune01@credence.in
+2025-06-17 20:23:44,432 - INFO - test_CredKart_Login_params_004  - 51 - Clicking on login button
+2025-06-17 20:23:44,432 - INFO - test_CredKart_Login_params_004  - 51 - Clicking on login button
+2025-06-17 20:23:44,798 - INFO - test_CredKart_Login_params_004  - 49 - Entering password
+2025-06-17 20:23:44,798 - INFO - test_CredKart_Login_params_004  - 49 - Entering password
+2025-06-17 20:23:45,839 - INFO - test_CredKart_Login_params_004  - 51 - Clicking on login button
+2025-06-17 20:23:45,839 - INFO - test_CredKart_Login_params_004  - 51 - Clicking on login button
+2025-06-17 20:23:45,983 - INFO - test_CredKart_Login_params_004  - 53 - Verifying user login
+2025-06-17 20:23:45,983 - INFO - test_CredKart_Login_params_004  - 53 - Verifying user login
+2025-06-17 20:23:46,064 - INFO - test_CredKart_Login_params_004  - 53 - Verifying user login
+2025-06-17 20:23:46,064 - INFO - test_CredKart_Login_params_004  - 53 - Verifying user login
+2025-06-17 20:23:46,272 - INFO - test_CredKart_Login_params_004  - 49 - Entering password
+2025-06-17 20:23:46,272 - INFO - test_CredKart_Login_params_004  - 49 - Entering password
+2025-06-17 20:23:46,444 - INFO - test_CredKart_Login_params_004  - 51 - Clicking on login button
+2025-06-17 20:23:46,444 - INFO - test_CredKart_Login_params_004  - 51 - Clicking on login button
+2025-06-17 20:23:46,614 - INFO - test_CredKart_Login_params_004  - 53 - Verifying user login
+2025-06-17 20:23:46,614 - INFO - test_CredKart_Login_params_004  - 53 - Verifying user login
+2025-06-17 20:23:47,619 - INFO - test_CredKart_Login_params_004  - 53 - Verifying user login
+2025-06-17 20:23:47,619 - INFO - test_CredKart_Login_params_004  - 53 - Verifying user login
+2025-06-17 20:23:50,410 - INFO - test_CredKart_Login_params_004  - 61 - user Login Failed
+2025-06-17 20:23:50,410 - INFO - test_CredKart_Login_params_004  - 61 - user Login Failed
+2025-06-17 20:23:50,411 - INFO - test_CredKart_Login_params_004  - 63 - Taking screenshot
+2025-06-17 20:23:50,411 - INFO - test_CredKart_Login_params_004  - 63 - Taking screenshot
+2025-06-17 20:23:50,676 - INFO - test_CredKart_Login_params_004  - 69 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:23:50,676 - INFO - test_CredKart_Login_params_004  - 69 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:23:50,841 - INFO - test_CredKart_Login_params_004  - 61 - user Login Failed
+2025-06-17 20:23:50,841 - INFO - test_CredKart_Login_params_004  - 61 - user Login Failed
+2025-06-17 20:23:50,841 - INFO - test_CredKart_Login_params_004  - 63 - Taking screenshot
+2025-06-17 20:23:50,841 - INFO - test_CredKart_Login_params_004  - 63 - Taking screenshot
+2025-06-17 20:23:51,077 - INFO - test_CredKart_Login_params_004  - 69 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:23:51,077 - INFO - test_CredKart_Login_params_004  - 69 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:23:51,863 - INFO - test_CredKart_Login_params_004  - 61 - user Login Failed
+2025-06-17 20:23:51,863 - INFO - test_CredKart_Login_params_004  - 61 - user Login Failed
+2025-06-17 20:23:51,865 - INFO - test_CredKart_Login_params_004  - 63 - Taking screenshot
+2025-06-17 20:23:51,865 - INFO - test_CredKart_Login_params_004  - 63 - Taking screenshot
+2025-06-17 20:23:52,205 - INFO - test_CredKart_Login_params_004  - 69 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:23:52,205 - INFO - test_CredKart_Login_params_004  - 69 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:23:52,814 - INFO - test_CredKart_Login_params_004  - 55 - user Login Successfully
+2025-06-17 20:23:52,814 - INFO - test_CredKart_Login_params_004  - 55 - user Login Successfully
+2025-06-17 20:23:53,040 - INFO - test_CredKart_Login_params_004  - 69 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:23:53,040 - INFO - test_CredKart_Login_params_004  - 69 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:23:57,007 - INFO - test_CredKart_Registration_003  - 156 - Testcase test_CredKart_Registration_003 is started
+2025-06-17 20:23:57,007 - INFO - test_CredKart_Registration_003  - 156 - Testcase test_CredKart_Registration_003 is started
+2025-06-17 20:23:57,008 - INFO - test_CredKart_Registration_003  - 157 - Opening browser and landing on login page--https://automation.credence.in/register
+2025-06-17 20:23:57,008 - INFO - test_CredKart_Registration_003  - 157 - Opening browser and landing on login page--https://automation.credence.in/register
+2025-06-17 20:23:58,245 - INFO - test_CredKart_Login_002  - 87 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:23:58,245 - INFO - test_CredKart_Login_002  - 87 - Testcase test_CredKart_Login_002 is started
+2025-06-17 20:23:58,245 - INFO - test_CredKart_Login_002  - 88 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:23:58,245 - INFO - test_CredKart_Login_002  - 88 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:23:59,546 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-17 20:23:59,546 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-17 20:23:59,546 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:23:59,546 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:23:59,754 - INFO - test_CredKart_Login_002  - 95 - Entering email--credencejune01@credence.in
+2025-06-17 20:23:59,754 - INFO - test_CredKart_Login_002  - 95 - Entering email--credencejune01@credence.in
+2025-06-17 20:24:00,427 - INFO - test_CredKart_Registration_003  - 164 - Entering name--Jenna Bird
+2025-06-17 20:24:00,427 - INFO - test_CredKart_Registration_003  - 164 - Entering name--Jenna Bird
+2025-06-17 20:24:00,773 - INFO - test_CredKart_Login_002  - 102 - Entering password
+2025-06-17 20:24:00,773 - INFO - test_CredKart_Login_002  - 102 - Entering password
+2025-06-17 20:24:00,944 - INFO - test_CredKart_Login_002  - 109 - Clicking on login button
+2025-06-17 20:24:00,944 - INFO - test_CredKart_Login_002  - 109 - Clicking on login button
+2025-06-17 20:24:00,991 - INFO - test_CredKart_Registration_003  - 168 - Entering email--kingpriscilla@example.com
+2025-06-17 20:24:00,991 - INFO - test_CredKart_Registration_003  - 168 - Entering email--kingpriscilla@example.com
+2025-06-17 20:24:01,403 - INFO - test_CredKart_Registration_003  - 172 - Entering password
+2025-06-17 20:24:01,403 - INFO - test_CredKart_Registration_003  - 172 - Entering password
+2025-06-17 20:24:01,626 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-17 20:24:01,626 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-17 20:24:01,669 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-17 20:24:01,669 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-17 20:24:01,670 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-17 20:24:01,670 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-17 20:24:01,751 - INFO - test_CredKart_Registration_003  - 176 - Entering confirm password
+2025-06-17 20:24:01,751 - INFO - test_CredKart_Registration_003  - 176 - Entering confirm password
+2025-06-17 20:24:01,897 - INFO - test_CredKart_Registration_003  - 180 - Clicking on registration button
+2025-06-17 20:24:01,897 - INFO - test_CredKart_Registration_003  - 180 - Clicking on registration button
+2025-06-17 20:24:03,694 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-17 20:24:03,694 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-17 20:24:03,694 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:24:03,694 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 20:24:04,809 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-17 20:24:04,809 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-17 20:24:04,835 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-17 20:24:04,835 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-17 20:24:04,835 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-17 20:24:04,835 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-17 20:24:05,308 - INFO - test_CredKart_Registration_003  - 184 - Verifying user registration
+2025-06-17 20:24:05,308 - INFO - test_CredKart_Registration_003  - 184 - Verifying user registration
+2025-06-17 20:24:05,337 - INFO - test_CredKart_Registration_003  - 186 - user Registration Successfully
+2025-06-17 20:24:05,337 - INFO - test_CredKart_Registration_003  - 186 - user Registration Successfully
+2025-06-17 20:24:05,338 - INFO - test_CredKart_Registration_003  - 188 - Clicking on menu button
+2025-06-17 20:24:05,338 - INFO - test_CredKart_Registration_003  - 188 - Clicking on menu button
+2025-06-17 20:24:05,468 - INFO - test_CredKart_Registration_003  - 190 - Clicking on logout link
+2025-06-17 20:24:05,468 - INFO - test_CredKart_Registration_003  - 190 - Clicking on logout link
+2025-06-17 20:24:05,617 - INFO - test_CredKart_Registration_003  - 198 - Testcase test_CredKart_Registration_003 is completed
+
+2025-06-17 20:24:05,617 - INFO - test_CredKart_Registration_003  - 198 - Testcase test_CredKart_Registration_003 is completed
+
+2025-06-17 20:24:07,734 - INFO - test_CredKart_Login_002  - 125 - Verifying user login
+2025-06-17 20:24:07,734 - INFO - test_CredKart_Login_002  - 125 - Verifying user login
+2025-06-17 20:24:07,752 - INFO - test_CredKart_Login_002  - 127 - user Login Successfully
+2025-06-17 20:24:07,752 - INFO - test_CredKart_Login_002  - 127 - user Login Successfully
+2025-06-17 20:24:09,693 - INFO - test_CredKart_Login_002  - 137 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-17 20:24:09,693 - INFO - test_CredKart_Login_002  - 137 - Testcase test_CredKart_Login_002 is completed
+

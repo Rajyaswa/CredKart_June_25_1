@@ -1,0 +1,2 @@
+Test002
+sum of 12 and 10 is 22

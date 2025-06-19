@@ -1,0 +1,14 @@
+{
+    "win64_chromedriver_137.0.7151.68_for_137.0.7151": {
+        "timestamp": "08/06/2025",
+        "binary_path": "C:\\Users\\SMAK\\.wdm\\drivers\\chromedriver\\win64\\137.0.7151.68\\chromedriver-win32/chromedriver.exe"
+    },
+    "win64_geckodriver_v0.36.0_for_": {
+        "timestamp": "06/06/2025",
+        "binary_path": "C:\\Users\\SMAK\\.wdm\\drivers\\geckodriver\\win64\\v0.36.0\\geckodriver.exe"
+    },
+    "win64_edgedriver_137.0.3296.62_for_137.0.3296": {
+        "timestamp": "05/06/2025",
+        "binary_path": "C:\\Users\\SMAK\\.wdm\\drivers\\edgedriver\\win64\\137.0.3296.62\\msedgedriver.exe"
+    }
+}

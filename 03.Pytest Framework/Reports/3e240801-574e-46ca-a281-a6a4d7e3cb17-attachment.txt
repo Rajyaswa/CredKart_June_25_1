@@ -1,0 +1,4 @@
+launching chrome headless browser
+Title of the page: Login
+
+Browser closed

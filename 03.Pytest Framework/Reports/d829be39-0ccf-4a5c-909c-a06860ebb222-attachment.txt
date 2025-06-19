@@ -1,0 +1,5 @@
+launching chrome headless browser
+you are landed on correct page and it's title is: CredKart
+User login Successfully
+
+Browser closed

@@ -1,0 +1,26 @@
+launching chrome headless browser
+Title of the page: Login
+Total rows are: 5
+Username is: credence123111
+Password is: Credence@123987211
+Expected Result is: Pass
+User login Successfully
+Test Case Result is: Pass
+Username is: credence123111a
+Password is: Credence@123987211
+Expected Result is: Fail
+User login Successfully
+Test Case Result is: Fail
+Username is: credence123111
+Password is: Credence@123987211a
+Expected Result is: Fail
+User login Failed
+Test Case Result is: Pass
+Username is: credence123111a
+Password is: Credence@123987211a
+Expected Result is: Fail
+User login Failed
+Test Case Result is: Pass
+Result List is: ['Pass', 'Fail', 'Pass', 'Pass']
+
+Browser closed

@@ -1,0 +1,4 @@
+you are landed on correct page and it's title is: CredKart
+User login Successfully
+Your order number is 23295172. We will immediatelly process your and it will be delivered in 2 - 5 business days.
+Order Placed Successfully

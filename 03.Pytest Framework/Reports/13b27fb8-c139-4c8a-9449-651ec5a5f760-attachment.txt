@@ -1,0 +1,4 @@
+launching chrome headless browser
+Driver title is: CredKart
+
+Browser closed

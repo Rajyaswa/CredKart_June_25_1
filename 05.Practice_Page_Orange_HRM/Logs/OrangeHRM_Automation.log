@@ -1,0 +1,176 @@
+2025-06-18 12:51:41,906 - INFO - test_Orange_HRM_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 12:51:41,906 - INFO - test_Orange_HRM_Login_params_004  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 12:51:47,936 - INFO - test_Orange_HRM_Login_params_004  - 47 - Entering email--Admin
+2025-06-18 12:51:49,169 - INFO - test_Orange_HRM_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 12:51:49,169 - INFO - test_Orange_HRM_Login_params_004  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 12:51:49,667 - INFO - test_Orange_HRM_Login_params_004  - 47 - Entering email--Admin
+2025-06-18 12:51:49,776 - INFO - test_Orange_HRM_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 12:51:49,776 - INFO - test_Orange_HRM_Login_params_004  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 12:51:50,213 - INFO - test_Orange_HRM_Login_params_004  - 47 - Entering email--Admin
+2025-06-18 12:51:51,226 - INFO - test_Orange_HRM_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 12:51:51,226 - INFO - test_Orange_HRM_Login_params_004  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 12:51:51,769 - INFO - test_Orange_HRM_Login_params_004  - 47 - Entering email--Admin
+2025-06-18 12:51:51,802 - INFO - test_Orange_HRM_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 12:51:51,802 - INFO - test_Orange_HRM_Login_params_004  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 12:51:52,197 - INFO - test_Orange_HRM_Login_params_004  - 47 - Entering email--wronguser
+2025-06-18 12:51:53,217 - INFO - test_Orange_HRM_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 12:51:53,217 - INFO - test_Orange_HRM_Login_params_004  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 12:51:53,877 - INFO - test_Orange_HRM_Login_params_004  - 47 - Entering email--wronguser
+2025-06-18 12:51:53,910 - INFO - test_Orange_HRM_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 12:51:53,912 - INFO - test_Orange_HRM_Login_params_004  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 12:51:54,359 - INFO - test_Orange_HRM_Login_params_004  - 47 - Entering email--wronguser
+2025-06-18 12:51:55,379 - INFO - test_Orange_HRM_Login_params_004  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 12:51:55,379 - INFO - test_Orange_HRM_Login_params_004  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 12:51:56,010 - INFO - test_Orange_HRM_Login_params_004  - 47 - Entering email--wronguser
+2025-06-18 13:30:28,148 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:30:28,150 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:30:32,206 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering email--Admin
+2025-06-18 13:30:33,442 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:30:33,442 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:30:33,986 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering email--Admin
+2025-06-18 13:30:34,133 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:30:34,133 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:30:34,566 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering email--Admin
+2025-06-18 13:30:35,582 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:30:35,582 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:30:36,156 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering email--Admin
+2025-06-18 13:30:36,188 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:30:36,189 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:30:36,583 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering email--wronguser
+2025-06-18 13:30:37,600 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:30:37,600 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:30:37,979 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering email--wronguser
+2025-06-18 13:30:38,016 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:30:38,016 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:30:38,394 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering email--wronguser
+2025-06-18 13:30:39,409 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:30:39,409 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:30:39,768 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering email--wronguser
+2025-06-18 13:42:19,197 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:42:19,198 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:42:24,537 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering email--Admin
+2025-06-18 13:42:25,804 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:42:25,805 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:42:26,252 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering email--Admin
+2025-06-18 13:42:26,351 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:42:26,352 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:42:26,762 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering email--Admin
+2025-06-18 13:42:27,777 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:42:27,777 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:42:28,226 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering email--Admin
+2025-06-18 13:42:28,259 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:42:28,259 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:42:28,670 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering email--wronguser
+2025-06-18 13:42:29,694 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:42:29,694 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:42:30,059 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering email--wronguser
+2025-06-18 13:42:30,091 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:42:30,091 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:42:30,510 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering email--wronguser
+2025-06-18 13:42:31,531 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:42:31,531 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:42:31,896 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering email--wronguser
+2025-06-18 13:45:38,031 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:45:38,031 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:45:41,937 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering username--Admin
+2025-06-18 13:45:43,307 - INFO - test_Orange_HRM_Login_params_002  - 49 - Entering password
+2025-06-18 13:45:43,457 - INFO - test_Orange_HRM_Login_params_002  - 51 - Clicking on login button
+2025-06-18 13:45:43,582 - INFO - test_Orange_HRM_Login_params_002  - 53 - Verifying user login
+2025-06-18 13:45:46,487 - INFO - test_Orange_HRM_Login_params_002  - 56 - User login successful
+2025-06-18 13:45:50,998 - INFO - test_Orange_HRM_Login_params_002  - 67 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-18 13:45:51,012 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:45:51,012 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:45:51,725 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering username--Admin
+2025-06-18 13:45:53,662 - INFO - test_Orange_HRM_Login_params_002  - 49 - Entering password
+2025-06-18 13:45:53,883 - INFO - test_Orange_HRM_Login_params_002  - 51 - Clicking on login button
+2025-06-18 13:45:54,036 - INFO - test_Orange_HRM_Login_params_002  - 53 - Verifying user login
+2025-06-18 13:45:58,193 - INFO - test_Orange_HRM_Login_params_002  - 61 - User login failed
+2025-06-18 13:45:58,403 - INFO - test_Orange_HRM_Login_params_002  - 67 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-18 13:45:58,410 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:45:58,410 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:45:59,385 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering username--wronguser
+2025-06-18 13:45:59,972 - INFO - test_Orange_HRM_Login_params_002  - 49 - Entering password
+2025-06-18 13:46:00,076 - INFO - test_Orange_HRM_Login_params_002  - 51 - Clicking on login button
+2025-06-18 13:46:01,170 - INFO - test_Orange_HRM_Login_params_002  - 53 - Verifying user login
+2025-06-18 13:46:05,276 - INFO - test_Orange_HRM_Login_params_002  - 61 - User login failed
+2025-06-18 13:46:05,426 - INFO - test_Orange_HRM_Login_params_002  - 67 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-18 13:46:05,434 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:46:05,434 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:46:06,289 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering username--wronguser
+2025-06-18 13:46:06,878 - INFO - test_Orange_HRM_Login_params_002  - 49 - Entering password
+2025-06-18 13:46:06,973 - INFO - test_Orange_HRM_Login_params_002  - 51 - Clicking on login button
+2025-06-18 13:46:07,805 - INFO - test_Orange_HRM_Login_params_002  - 53 - Verifying user login
+2025-06-18 13:46:11,913 - INFO - test_Orange_HRM_Login_params_002  - 61 - User login failed
+2025-06-18 13:46:12,075 - INFO - test_Orange_HRM_Login_params_002  - 67 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-18 13:56:29,848 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:56:29,848 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:56:33,650 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering username--Admin
+2025-06-18 13:56:35,087 - INFO - test_Orange_HRM_Login_params_002  - 49 - Entering password
+2025-06-18 13:56:35,252 - INFO - test_Orange_HRM_Login_params_002  - 51 - Clicking on login button
+2025-06-18 13:56:35,419 - INFO - test_Orange_HRM_Login_params_002  - 53 - Verifying user login
+2025-06-18 13:56:37,189 - INFO - test_Orange_HRM_Login_params_002  - 56 - User login successful
+2025-06-18 13:56:40,004 - INFO - test_Orange_HRM_Login_params_002  - 67 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-18 13:56:40,015 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:56:40,016 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:56:40,440 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering username--Admin
+2025-06-18 13:56:41,034 - INFO - test_Orange_HRM_Login_params_002  - 49 - Entering password
+2025-06-18 13:56:41,134 - INFO - test_Orange_HRM_Login_params_002  - 51 - Clicking on login button
+2025-06-18 13:56:41,232 - INFO - test_Orange_HRM_Login_params_002  - 53 - Verifying user login
+2025-06-18 13:56:45,566 - INFO - test_Orange_HRM_Login_params_002  - 61 - User login failed
+2025-06-18 13:56:45,829 - INFO - test_Orange_HRM_Login_params_002  - 67 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-18 13:56:45,842 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:56:45,842 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:56:48,605 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering username--wronguser
+2025-06-18 13:56:49,709 - INFO - test_Orange_HRM_Login_params_002  - 49 - Entering password
+2025-06-18 13:56:49,809 - INFO - test_Orange_HRM_Login_params_002  - 51 - Clicking on login button
+2025-06-18 13:56:50,671 - INFO - test_Orange_HRM_Login_params_002  - 53 - Verifying user login
+2025-06-18 13:56:54,779 - INFO - test_Orange_HRM_Login_params_002  - 61 - User login failed
+2025-06-18 13:56:54,924 - INFO - test_Orange_HRM_Login_params_002  - 67 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-18 13:56:54,941 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:56:54,941 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:57:37,288 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering username--wronguser
+2025-06-18 13:57:42,752 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:57:42,752 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:59:35,778 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:59:35,778 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:59:39,950 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering username--Admin
+2025-06-18 13:59:41,628 - INFO - test_Orange_HRM_Login_params_002  - 49 - Entering password
+2025-06-18 13:59:41,756 - INFO - test_Orange_HRM_Login_params_002  - 51 - Clicking on login button
+2025-06-18 13:59:41,870 - INFO - test_Orange_HRM_Login_params_002  - 53 - Verifying user login
+2025-06-18 13:59:43,599 - INFO - test_Orange_HRM_Login_params_002  - 56 - User login successful
+2025-06-18 13:59:46,140 - INFO - test_Orange_HRM_Login_params_002  - 67 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-18 13:59:46,150 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:59:46,150 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:59:46,579 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering username--Admin
+2025-06-18 13:59:47,169 - INFO - test_Orange_HRM_Login_params_002  - 49 - Entering password
+2025-06-18 13:59:47,255 - INFO - test_Orange_HRM_Login_params_002  - 51 - Clicking on login button
+2025-06-18 13:59:47,329 - INFO - test_Orange_HRM_Login_params_002  - 53 - Verifying user login
+2025-06-18 13:59:51,618 - INFO - test_Orange_HRM_Login_params_002  - 61 - User login failed
+2025-06-18 13:59:51,828 - INFO - test_Orange_HRM_Login_params_002  - 67 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-18 13:59:51,837 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:59:51,837 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:59:52,762 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering username--wronguser
+2025-06-18 13:59:53,363 - INFO - test_Orange_HRM_Login_params_002  - 49 - Entering password
+2025-06-18 13:59:53,471 - INFO - test_Orange_HRM_Login_params_002  - 51 - Clicking on login button
+2025-06-18 13:59:53,553 - INFO - test_Orange_HRM_Login_params_002  - 53 - Verifying user login
+2025-06-18 13:59:57,935 - INFO - test_Orange_HRM_Login_params_002  - 61 - User login failed
+2025-06-18 13:59:58,096 - INFO - test_Orange_HRM_Login_params_002  - 67 - Testcase test_CredKart_Login_002 is completed
+
+2025-06-18 13:59:58,103 - INFO - test_Orange_HRM_Login_params_002  - 38 - Testcase test_CredKart_Login_002 is started
+2025-06-18 13:59:58,103 - INFO - test_Orange_HRM_Login_params_002  - 39 - Opening browser and landing on login page--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-18 13:59:58,499 - INFO - test_Orange_HRM_Login_params_002  - 47 - Entering username--wronguser
+2025-06-18 13:59:59,085 - INFO - test_Orange_HRM_Login_params_002  - 49 - Entering password
+2025-06-18 13:59:59,185 - INFO - test_Orange_HRM_Login_params_002  - 51 - Clicking on login button
+2025-06-18 13:59:59,267 - INFO - test_Orange_HRM_Login_params_002  - 53 - Verifying user login
+2025-06-18 14:00:03,613 - INFO - test_Orange_HRM_Login_params_002  - 61 - User login failed
+2025-06-18 14:00:03,763 - INFO - test_Orange_HRM_Login_params_002  - 67 - Testcase test_CredKart_Login_002 is completed
+
