@@ -52,13 +52,13 @@ class Test_User_Profile_Class:
         # self.log.critical("This is critical")
 
         self.log.info("Checking title of login page")
-        if self.driver.title == "CredKart1":
+        if self.driver.title == "CredKart":
             self.log.info("Landed on correct page and it's title is: " + self.driver.title)
             #print("you are landed on correct page and it's title is:", self.driver.title)
             self.driver.save_screenshot(
                 r"D:\Batch Notes\Automation Testing may 2025\04. CredKart_Pytest_Framework\Screenshots\User login Successfully.png"
                 )
-            allure.attach.file(r"D:\Batch Notes\Automation Testing may 2025\04. CredKart_Pytest_Framework\Screenshots\User login Successfully.png", name="User login Successfully", attachment_type=allure.attachment_type.PNG)
+            allure.attach.file(r"C:\Users\SMAK\PycharmProjects\04.CreadKart_Pytest_Framework\ScreenShot\User login Successfully.png", name="User login Successfully", attachment_type=allure.attachment_type.PNG)
             assert True
         else:
             self.log.info("Landed on incorrect page and it's title is: " + self.driver.title)
